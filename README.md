@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I’m currently working on full stack web developmemt.
-### I’m currently learning python and frontened .
+
 ### How to reach me: https://www.linkedin.com/in/rahul-paliwal-b4944a1b8/
 
 
